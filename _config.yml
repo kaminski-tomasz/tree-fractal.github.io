@@ -28,7 +28,7 @@ twitter_username: kaminskitomasza
 github_username:  kaminski-tomasz
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
